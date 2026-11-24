@@ -1,0 +1,101 @@
+{
+  "model": "模型就绪",
+  "downloads": [
+    {
+      "host": "https://hf-mirror.com",
+      "result": "SHA-256 校验通过"
+    }
+  ],
+  "cache": "已保存模型缓存",
+  "errors": [],
+  "inferences": 2,
+  "threshold": 80,
+  "modelSha256": "52a25ed2102b84cd552241ba5b29e4c53708fe256cead50a25deaea039e5588a",
+  "builtinWhitelist": [
+    "3747571004608077",
+    "518791169"
+  ],
+  "whitelist": {},
+  "comments": [
+    {
+      "uid": "1073249466",
+      "name": "孤寞鸢",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "351757708",
+      "name": "曦夜屑",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "3546703663729543",
+      "name": "路过-的观众",
+      "level": 4,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "3747575563814932",
+      "name": "贪吃的小鱼儿",
+      "level": 2,
+      "state": "done",
+      "score": {
+        "probability": 0.9975953102111816,
+        "avatar": 69.83167171478271,
+        "name": 20,
+        "level": 15,
+        "total": 104.83167171478271,
+        "fold": true
+      },
+      "whitelisted": false,
+      "folded": true
+    },
+    {
+      "uid": "266705836",
+      "name": "清晨的苏",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "3546584593730320",
+      "name": "小鱼不加班_Channel",
+      "level": 2,
+      "state": "done",
+      "score": {
+        "probability": 0.9960034489631653,
+        "avatar": 69.72024142742157,
+        "name": 25,
+        "level": 15,
+        "total": 109.72024142742157,
+        "fold": true
+      },
+      "whitelisted": false,
+      "folded": true
+    },
+    {
+      "uid": "664024842",
+      "name": "晚九点上自习",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "7190889",
+      "name": "wsad一只手按不过来",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    }
+  ]
+}

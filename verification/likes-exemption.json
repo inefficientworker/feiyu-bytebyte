@@ -1,0 +1,63 @@
+{
+  "version": "0.1.1",
+  "url": "https://www.bilibili.com/video/BV1JGyxzKEyf/",
+  "realComments": [
+    {
+      "name": "小肥鱼在打工",
+      "tag": "BILI-COMMENT-REPLY-RENDERER",
+      "likes": "8",
+      "folded": false,
+      "body": "block"
+    },
+    {
+      "name": "旁观者的大肥鱼",
+      "tag": "BILI-COMMENT-RENDERER",
+      "likes": "155",
+      "folded": false,
+      "body": "block"
+    },
+    {
+      "name": "小肥鱼在打工",
+      "tag": "BILI-COMMENT-REPLY-RENDERER",
+      "likes": "2",
+      "folded": true,
+      "body": "none"
+    },
+    {
+      "name": "蛋蛋的小肥鱼",
+      "tag": "BILI-COMMENT-RENDERER",
+      "likes": "",
+      "folded": false,
+      "body": "block"
+    },
+    {
+      "name": "小肥鱼在打工",
+      "tag": "BILI-COMMENT-REPLY-RENDERER",
+      "likes": "2",
+      "folded": true,
+      "body": "none"
+    }
+  ],
+  "boundary": {
+    "method": "Temporary DOM text changes only; no like requests sent; original text restored",
+    "results": [
+      {
+        "displayedLikes": 5,
+        "folded": true,
+        "display": "none"
+      },
+      {
+        "displayedLikes": 6,
+        "folded": false,
+        "display": "block"
+      },
+      {
+        "displayedLikes": 5,
+        "folded": true,
+        "display": "none"
+      }
+    ],
+    "restoredLikes": "8",
+    "restoredFolded": false
+  }
+}

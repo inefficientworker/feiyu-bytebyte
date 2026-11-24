@@ -1,0 +1,184 @@
+{
+  "model": "尚未需要模型",
+  "downloads": [],
+  "cache": "",
+  "errors": [],
+  "inferences": 0,
+  "threshold": 80,
+  "modelSha256": "52a25ed2102b84cd552241ba5b29e4c53708fe256cead50a25deaea039e5588a",
+  "builtinWhitelist": [
+    "3747571004608077",
+    "518791169"
+  ],
+  "whitelist": {},
+  "comments": [
+    {
+      "uid": "305331050",
+      "name": "狂魔弑天",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "97006454",
+      "name": "Ryder_Yi",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "158668173",
+      "name": "冬眠勋鹿",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "1645118456",
+      "name": "打点计时器D",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "481046805",
+      "name": "西哲雨留",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "46045120",
+      "name": "HereticFrederick",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "400646061",
+      "name": "艾格少爷是内八",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "270474138",
+      "name": "ylany1",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "631371759",
+      "name": "轻告白",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "11523993",
+      "name": "爱护眼睛小助手提醒您",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "230519775",
+      "name": "无尾喵Aiden",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "85650700",
+      "name": "西纳图格_synapse",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "290511922",
+      "name": "总有困难能战胜我",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "453814727",
+      "name": "al4ya",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "36865318",
+      "name": "360导航233",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "398853635",
+      "name": "招笑南理中法",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "438204910",
+      "name": "20276118453_bili",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "176476305",
+      "name": "香煎大橘猫",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "3747571004608077",
+      "name": "DeepSeekHarness",
+      "level": 2,
+      "state": "whitelist",
+      "whitelisted": true,
+      "folded": false
+    },
+    {
+      "uid": "166478127",
+      "name": "暖言猫猫",
+      "level": 6,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    },
+    {
+      "uid": "493259965",
+      "name": "冬宫舞悦",
+      "level": 5,
+      "state": "below-maximum",
+      "whitelisted": false,
+      "folded": false
+    }
+  ]
+}
