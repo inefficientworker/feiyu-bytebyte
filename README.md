@@ -4,9 +4,11 @@ B 站评论区油猴脚本：[feiyu-byebye.user.js](./feiyu-byebye.user.js)。�
 
 ## 安装
 
-在 Tampermonkey、ScriptCat 等脚本管理器中新建脚本，把 `feiyu-byebye.user.js` 全文粘贴保存，再刷新 B 站。也可将本目录用 `python3 -m http.server 8765 --bind 127.0.0.1` 提供服务，访问 `http://127.0.0.1:8765/feiyu-byebye.user.js` 安装。
+在安装好 Tampermonkey、ScriptCat 等脚本管理器后，直接打开仓库 `main` 分支的脚本链接即可安装并支持后续自动更新：
 
-实际验收环境为 Chrome + ScriptCat 1.5.2。Tampermonkey 使用标准 GM API，但本次未单独验证。支持桌面视频、动态和空间页面的评论；已验证现行 Shadow DOM 评论组件，附带旧版 DOM 适配。
+<https://raw.githubusercontent.com/inefficientworker/feiyu-bytebyte/main/feiyu-byebye.user.js>
+
+安装后刷新网页即可生效。
 
 ## 调整评分
 
@@ -54,8 +56,8 @@ B 站评论区油猴脚本：[feiyu-byebye.user.js](./feiyu-byebye.user.js)。�
 
 评分是启发式筛选，不能据此证明账号由 AI 运营，也无法保证所有未见过的真人账号零误报；指定的两个真人账号由 UID 白名单明确保证不折叠。
 
-## 实际验证
-
-按要求使用 Chrome MCP 浏览真实 B 站评论区，没有编写 E2E 或 Playwright 测试。截图、头像实测值和脚本菜单导出的状态见 [verification](./verification/README.md)。
+# 感谢
 
 DOM 适配参考了 [utags 的 B 站实现](https://github.com/utags/utags/blob/main/packages/extension/src/sites/z001/013-bilibili.com.ts)，并依据当前页面实际 Shadow DOM 结构实现；未复制其代码。模型及数据的许可与来源以 [is-dafeiyu](https://huggingface.co/inefficentworker/is-dafeiyu) 的说明为准。
+
+[MIT](LICENSE) 许可证

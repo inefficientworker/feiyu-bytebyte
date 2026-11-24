@@ -3,6 +3,8 @@
 // @namespace    feiyu-byebye
 // @version      0.1.1
 // @description  本地识别头像，结合昵称和等级评分折叠大肥鱼评论；可展开、加白名单。
+// @updateURL    https://raw.githubusercontent.com/inefficientworker/feiyu-bytebyte/main/feiyu-byebye.user.js
+// @downloadURL  https://raw.githubusercontent.com/inefficientworker/feiyu-bytebyte/main/feiyu-byebye.user.js
 // @match        https://www.bilibili.com/*
 // @match        https://space.bilibili.com/*
 // @match        https://t.bilibili.com/*
